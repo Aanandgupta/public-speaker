@@ -23,6 +23,9 @@
     margin-bottom: 1rem;
     padding: bottom 10px;
   }
+  #showcase{
+    height:96vh;
+   }
 }
 #who{
     display: block;
@@ -31,5 +34,5 @@
   background: none;
 }
 #showcase{
-    height:96vh;
+    height:100vh;
 }
